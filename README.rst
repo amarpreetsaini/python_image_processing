@@ -9,35 +9,6 @@ Detailed documentation is in the "docs" directory.
 
 About
 -----------
-<pre>
-Dir Structure
-├── docs
-│   ├── quickguide.txt
-│   └── test_resize.txt
-├── images
-│   ├── cat.jpeg
-│   └── dog.jpeg
-├── processed_images
-│   ├── gray_cat.jpeg
-│   ├── poster_cat.jpeg
-│   ├── resized_cat.jpeg
-│   ├── rotated_cat.jpeg
-│   └── test_cat.jpeg
-├── README.rst
-├── src
-│   ├── packages
-│   │   ├── image_processer.py
-│   │   ├── image_processer.pyc
-│   │   ├── __init__.py
-│   │   ├── __init__.pyc
-│   │   ├── ui.py
-│   │   └── ui.pyc
-│   ├── photo.py
-│   └── slide.py
-└── tests
-    └── test_opencv_resize.py
-</pre>
-
 1. Follow docs/quickguide to start using Photo Editor
 2. Source Images will be stored in images dir.
 3. Processed Images will be store in processed_images dir.
