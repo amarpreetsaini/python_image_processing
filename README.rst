@@ -9,7 +9,7 @@ Detailed documentation is in the "docs" directory.
 
 About
 -----------
-
+<pre>
 Dir Structure
 ├── docs
 │   ├── quickguide.txt
@@ -36,6 +36,7 @@ Dir Structure
 │   └── slide.py
 └── tests
     └── test_opencv_resize.py
+</pre>
 
 1. Follow docs/quickguide to start using Photo Editor
 2. Source Images will be stored in images dir.
