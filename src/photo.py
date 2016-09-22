@@ -7,7 +7,6 @@ from packages.image_processer import *
 #Import custom ui function
 from packages.ui import *
 
-
 print ("Welcome to photo editor")
 filename = raw_input('Enter a file name: ')
 
