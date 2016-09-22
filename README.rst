@@ -11,7 +11,6 @@ About
 -----------
 
 Dir Structure
-
 ├── docs
 │   ├── quickguide.txt
 │   └── test_resize.txt
