@@ -1,0 +1,20 @@
+Directory Structure
+
+├── src
+│   ├── packages
+│   │   ├── image_processer.py
+│   │   ├── image_processer.pyc
+│   │   ├── __init__.py
+│   │   ├── __init__.pyc
+│   │   ├── ui.py
+│   │   └── ui.pyc
+│   ├── photo.py
+
+1. Source files are available in src dir. To run
+	cd src
+	python photo.py
+	
+2. Custom packages are available under packages.
+
+3. We are using two packages image_processor and ui.
+

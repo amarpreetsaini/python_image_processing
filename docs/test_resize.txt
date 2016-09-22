@@ -1,0 +1,27 @@
+Directory Structure
+
+└── tests
+    └── test_opencv_resize.py
+
+1. Test are available under tests dir.
+2. Test cases are stores in tests dir. To run test case do following
+	cd tests
+	python test_case.py
+
+About
+----------
+
+test_opencv_resize.py file contains test case test_opencv_resize.py that verify whether the opencv is able 
+to resize the image properly.
+
+Steps:
+
+1. Image is resized to 100 X 100 using opencv resize function.
+
+2. Size of new image is calculated via PIL library (Pillow)
+
+3. Size is verified via assertEqual to verify whether image is resize or not
+
+4. Passed Condition: Image is resized and Size is 100 X 100
+
+5. Failed Condition: Image is not resized to 100 X 100
